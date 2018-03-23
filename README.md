@@ -14,5 +14,5 @@ Please see my work linked below, or click around my repositories
 https://github.com/jordan-hearty/Java-Exercises/tree/master/Temperature/src/temperature
 A simple converter which converts the value in Celcius, to it's Fahrenheit value.
 
-<b>2. Boiling & Freezing</b>
+<b>2. Boiling & Freezing</b> https://github.com/jordan-hearty/Java-Exercises/blob/master/BoilingAndFreezing/src/boiling/BoilingAndFreezing.java
 Shows my knowledge of using IF statements and ELSE IF to return an answer to the user. This simple piece of code takes the users value, interprets it and returns a value to say if the water is at boiling point, in a normal state, or freezing.
