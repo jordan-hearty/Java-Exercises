@@ -16,4 +16,4 @@ A simple converter which converts the value in Celcius, to it's Fahrenheit value
 
 <b>2. [Boiling & Freezing](https://github.com/jordan-hearty/Java-Exercises/blob/master/BoilingAndFreezing/src/boiling/BoilingAndFreezing.java)</b>
 
-Shows my knowledge of using <i>IF</i> statements and <i>ELSE IF</i> to return an answer to the user.
+Shows my knowledge of using <b>IF</b> statements and <b>ELSE IF</b> to return an answer to the user.
