@@ -10,7 +10,7 @@ I aspire to be a gain a career in Software Engineering and have applied to Kaino
 
 Please see my work linked below, or click around my repositories
 
-<b>1. [Celcius to Fahrenheit Converter](https://github.com/jordan-hearty/Java-Exercises/tree/master/Temperature/src/temperature)</b>
+<b>1. [Celcius to Fahrenheit Converter](https://github.com/jordan-hearty/Java-Exercises/blob/master/Temperature/src/temperature/Temperature.java)</b>
 
 A simple converter which converts the value in Celcius, to it's Fahrenheit value.
 
