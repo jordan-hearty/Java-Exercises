@@ -10,5 +10,5 @@ I aspire to be a gain a career in Software Engineering and have applied to Kaino
 
 Please see my work linked below, or click around my repositories
 
-Celcius to Fahrenheit Converter
+<b>Celcius to Fahrenheit Converter:</b>
 https://github.com/jordan-hearty/Java-Exercises/tree/master/Temperature/src/temperature
