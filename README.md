@@ -10,5 +10,9 @@ I aspire to be a gain a career in Software Engineering and have applied to Kaino
 
 Please see my work linked below, or click around my repositories
 
-<b>Celcius to Fahrenheit Converter:</b>
+<b>1. Celcius to Fahrenheit Converter:</b>
 https://github.com/jordan-hearty/Java-Exercises/tree/master/Temperature/src/temperature
+A simple converter which converts the value in Celcius, to it's Fahrenheit value.
+
+<b>2. Boiling & Freezing</b>
+Shows my knowledge of using IF statements and ELSE IF to return an answer to the user. This simple piece of code takes the users value, interprets it and returns a value to say if the water is at boiling point, in a normal state, or freezing.
