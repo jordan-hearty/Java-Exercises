@@ -32,7 +32,7 @@ public class temp_form_gui extends javax.swing.JFrame {
         jLabel2 = new javax.swing.JLabel();
         jTextField1 = new javax.swing.JTextField();
         jTextField2 = new javax.swing.JTextField();
-        jButton1 = new javax.swing.JButton();
+        jButton1 = new javax.swing.JButton(); 
         jButton2 = new javax.swing.JButton();
         jButton3 = new javax.swing.JButton();
 
